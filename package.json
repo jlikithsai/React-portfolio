@@ -27,6 +27,9 @@
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
+	{
+	"homepage":"https://jlikithsai.github.io/React-portfolio/"
+	},
 	"scripts": {
 		"start": "react-scripts start",
 		"predeploy" : "npm run build",
