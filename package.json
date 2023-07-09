@@ -7,7 +7,7 @@
 		"email": "jonnals22@iitk.ac.in",
 		"url": "https://jlikithsai.github.io/React-portfolio/"
 	},
-	"license": "MIT",
+	"license": "",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
